@@ -1,0 +1,1 @@
+![BC's Poverty Rate vs Income Assistance Graph](https://github.com/JoBoSo/data-visualizations/blob/main/BC%20Poverty%20Rate%20vs%20Income%20Assistance/BC%20Poverty%20Rate%20vs%20Income%20Assistance.png)
